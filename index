@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:image" content="https://amwcdn.com/featured/348747/responsive-images/675339ae6a___full-webp_709_494.webp"/>
-    <meta property="og:title" content="أهم صفقات الأهلى فى 2024"/>
-    <meta property="og:description" content="حسم صفقة جديدة لتدعيم خط الدفاع"/>
+    <meta property="og:image" content="https://amwcdn.com/featured/345283/responsive-images/76336e23bf___full-webp_709_494.webp"/>
+    <meta property="og:title" content="مفاجئات صادمة وتفاصيل مثيرة"/>
+    <meta property="og:description" content="فى محاكمة سفاح التجمع"/>
     <title>We-Choses-To-You</title>
     <style>
         body {
@@ -78,7 +78,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const links = [
-                'https://public.amwaly.com/blog/118758/%D8%A7%D9%87%D9%85-%D8%B5%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%89-%D9%81%D9%89-2024'
+                'https://bit.ly/Testlink1amwaly'
             ];
 
             const container = document.querySelector('.container');
